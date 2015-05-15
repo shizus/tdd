@@ -1,0 +1,8 @@
+big_title_framed{
+  color: #FFED00;
+  font-family: Eurostile-Med;
+  font-size: 60px;
+  background-color: rgba(0,14,21,0.5);
+  border: 4px solid #FFF;
+  padding: 30px 60px;
+}
