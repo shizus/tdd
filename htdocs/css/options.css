@@ -311,8 +311,8 @@ a.button.loading::before, button.button.loading::before, input.button.loading::b
 
 .widget_price_filter_custom .ui-slider .ui-slider-handle {-moz-box-shadow:none;-webkit-box-shadow:none;border-radius: 3px;}
 
- .page .homerecent .bx-next, .advertise .bx-next {background-image: url('images/slideshowArrowForward.png');background-position:0px 1px;}
- .page .homerecent .bx-prev, .advertise .bx-prev   {background-image: url('images/slideshowArrowBackward.png');background-position:0px 1px;}
+ .page .homerecent .bx-next, .advertise .bx-next {background-image: url(images/slideshowArrowForward.png);background-position:0px 1px;}
+ .page .homerecent .bx-prev, .advertise .bx-prev   {background-image: url(images/slideshowArrowBackward.png);background-position:0px 1px;}
 
 
  

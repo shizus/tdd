@@ -36,7 +36,7 @@ $MySQL = MySQL::getInstance();
 		
 	<!-- set title of the page -->
 	<title>
-	Taller de Diseño | desarrollo &amp; producción	</title>
+	Taller de Diseï¿½o | desarrollo &amp; producciï¿½n	</title>
 		
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 	<link rel="icon" type="image/png" href="uploads/2014/05/favicon.png">
@@ -78,12 +78,12 @@ $MySQL = MySQL::getInstance();
 			<div class="pagenav fixedmenu">
 				<div class="holder-fixedmenu">
 					<div class="logo-fixedmenu">
-												<a href="."><img src="uploads/2014/05/logo.png" alt="Taller de Diseño - desarrollo &amp; producción" ></a>
+												<a href="."><img src="uploads/2014/05/logo.png" alt="Taller de Diseï¿½o - desarrollo &amp; producciï¿½n" ></a>
 					</div>
 												<div class="menu-fixedmenu home">
 						<ul id="menu-menu-principal" class="menu"><li id="menu-item-4714-7769" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="#about"><strong>NOSOTROS</strong></a></li>
-<li id="menu-item-1451-7786" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="#concepto"><strong>POR QUÉ TDD</strong></a></li>
-<li id="menu-item-7194-7752" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="#metodologia"><strong>METODOLOGÍA</strong></a></li>
+<li id="menu-item-1451-7786" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="#concepto"><strong>POR QUï¿½ TDD</strong></a></li>
+<li id="menu-item-7194-7752" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="#metodologia"><strong>METODOLOGï¿½A</strong></a></li>
 <li id="menu-item-9171-7787" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="#servicios"><strong>SERVICIOS</strong></a></li>
 <li id="menu-item-214-7788" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="#portfolio"><strong>PORTFOLIO</strong></a></li>
 <li id="menu-item-3694-7789" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="#news"><strong>NOVEDADES</strong></a></li>
@@ -91,8 +91,8 @@ $MySQL = MySQL::getInstance();
 </ul>					</div>
 					<div class="respMenu">
 						<select name="url_list" class="event-type-selector-dropdown" onchange="gotosite(this)"><option value="" selected="selected" disabled="disabled">Seleccione...</option><option  value="#about">NOSOTROS</option>
-<option  value="#concepto">POR QUÉ TDD</option>
-<option  value="#metodologia">METODOLOGÍA </option>
+<option  value="#concepto">POR QUï¿½ TDD</option>
+<option  value="#metodologia">METODOLOGï¿½A </option>
 <option  value="#servicios">SERVICIOS</option>
 <option  value="#portfolio">PORTFOLIO </option>
 <option  value="#news">NOVEDADES</option>
@@ -104,13 +104,13 @@ $MySQL = MySQL::getInstance();
 			<!-- logo and main menu -->
 			<div id="header">		
 				<div id="logo">
-					<a href="."><img src="uploads/2014/05/logo.png" alt="Taller de Diseño - desarrollo &amp; producción" /></a>
+					<a href="."><img src="uploads/2014/05/logo.png" alt="Taller de Diseï¿½o - desarrollo &amp; producciï¿½n" /></a>
 				</div>
 				<!-- respoonsive menu main-->
 				<div class="respMenu noscroll">
 					<select name="url_list" class="event-type-selector-dropdown" onchange="gotosite(this)"><option value="" selected="selected" disabled="disabled">Seleccione...</option><option  value="#about">NOSOTROS</option>
-<option  value="#concepto">POR QUÉ TDD</option>
-<option  value="#metodologia">METODOLOGÍA </option>
+<option  value="#concepto">POR QUï¿½ TDD</option>
+<option  value="#metodologia">METODOLOGï¿½A </option>
 <option  value="#servicios">SERVICIOS</option>
 <option  value="#portfolio">PORTFOLIO </option>
 <option  value="#news">NOVEDADES</option>
@@ -120,8 +120,8 @@ $MySQL = MySQL::getInstance();
 				<!-- main menu -->
 				<div class="pagenav">
 										<div class="pagenav home"> <ul id="menu-menu-principal-3" class="menu"><li id="menu-item-8833-7769" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="#about"><strong>NOSOTROS</strong></a></li>
-<li id="menu-item-9152-7786" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="#concepto"><strong>POR QUÉ TDD</strong></a></li>
-<li id="menu-item-4218-7752" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="#metodologia"><strong>METODOLOGÍA</strong></a></li>
+<li id="menu-item-9152-7786" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="#concepto"><strong>POR QUï¿½ TDD</strong></a></li>
+<li id="menu-item-4218-7752" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="#metodologia"><strong>METODOLOGï¿½A</strong></a></li>
 <li id="menu-item-3257-7787" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="#servicios"><strong>SERVICIOS</strong></a></li>
 <li id="menu-item-4997-7788" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="#portfolio"><strong>PORTFOLIO</strong></a></li>
 <li id="menu-item-7147-7789" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="#news"><strong>NOVEDADES</strong></a></li>
@@ -151,7 +151,7 @@ $MySQL = MySQL::getInstance();
 			data-start="1500"
 			data-easing="easeOutBack"
 			data-endspeed="300"
-			style="z-index: 2">TALLER DE DISEÑO
+			style="z-index: 2">TALLER DE DISEï¿½O
 		</div>
 
 		<!-- LAYER NR. 2 -->
@@ -206,7 +206,7 @@ $MySQL = MySQL::getInstance();
 			data-start="4400"
 			data-easing="easeInCirc"
 			data-endspeed="300"
-			style="z-index: 7"><a href = "#about">MÁS SOBRE NOSOTROS</a>
+			style="z-index: 7"><a href = "#about">Mï¿½S SOBRE NOSOTROS</a>
 		</div>
 	</li>
 	<!-- SLIDE  -->
@@ -235,7 +235,7 @@ $MySQL = MySQL::getInstance();
 			data-easing="easeOutBack"
 			data-endspeed="300"
 			style="z-index: 3">CONTAMOS CON<br>
-MAS DE 30.000 m²<br>
+MAS DE 30.000 mï¿½<br>
 DE STANDS CONSTRUIDOS
 		</div>
 	</li>
@@ -294,7 +294,7 @@ MATERIALIZAMOS PROYECTOS
 			data-start="900"
 			data-easing="easeOutBack"
 			data-endspeed="300"
-			style="z-index: 3">BRINDAMOS INTERRELACIÓN<br>
+			style="z-index: 3">BRINDAMOS INTERRELACIï¿½N<br>
 PERMANENTE EN CADA<br>
 INSTANCIA DEL PROCESO
 		</div>
@@ -409,7 +409,7 @@ PARA OBTENER RESULTADOS
 				
 			</script>
 			
-			<!-- END REVOLUTION SLIDER --></div><div id="aq-block-8219-2" class="aq-block aq-block-aq_start_content_block aq_span12 aq-first cf"><div class="mainwrap" style="background:#fff url();background-size: cover;border-top:1px solid #ededed;padding:0px 0 0px 0;">
+			<!-- END REVOLUTION SLIDER --></div><div id="aq-block-8219-2" class="aq-block aq-block-aq_start_content_block aq_span12 aq-first cf"><div class="mainwrap" style="background-color:#fff;background-size: cover;border-top:1px solid #ededed;padding:0px 0 0px 0;">
 <div class="main clearfix">
 <div class="content fullwidth">
 </div><div id="aq-block-8219-3" class="aq-block aq-block-aq_clear_block aq_span12 aq-first cf"><div class="cf" style="height:80px; background:#fff"></div></div><div id="aq-block-8219-4" class="aq-block aq-block-aq_quote_title_block aq_span12 aq-first cf">		<div class="infotextwrap" id="about">
@@ -426,11 +426,11 @@ PARA OBTENER RESULTADOS
 		</div><div id="aq-block-8219-5" class="aq-block aq-block-aq_richtext_block aq_span12 aq-first cf"><h4 class="aq-block-title">NOSOTROS</h4><p>Somos un grupo de profesionales del dise&ntilde;o que, con la idea de materializar nuestras propias ideas, creamos el Taller en 1998. Desde nuestros inicios buscamos siempre una reproducci&oacute;n fiel y de calidad sobre cada proyecto, que nos permitiera fiabilidad y una fidelidad proyecto-constructiva en cada trabajo. Nuestro&nbsp;<em>Taller de dise&ntilde;o</em>&nbsp;nos permite satisfacer la demanda creciente de los diversos clientes y adaptarnos a los acontecimientos del mercado. Por ello, para nuestro trabajo nos basamos en la calidad, credibilidad y confiabilidad como puntos de referencia.</p>
 <p>Gracias a nuestra gran experiencia, nos convertimos en especialistas del desarrollo y producci&oacute;n de espacios creativos y funcionales,&nbsp;<strong>transformando las ideas en soluciones de marketing</strong>. Para lograr esto, contamos con personal altamente calificado para resolver y ejecutar instalaciones en diversas situaciones, en todo el pa&iacute;s, con procedimientos exclusivos.</p>
 </div><div id="aq-block-8219-6" class="aq-block aq-block-aq_end_content_block aq_span12 aq-first cf">		</div></div>
-					</div></div><div id="aq-block-8219-7" class="aq-block aq-block-aq_clear_block aq_span12 aq-first cf"><div class="cf" style="height:70px; background:#fff"></div></div><div id="aq-block-8219-8" class="aq-block aq-block-aq_start_content_block aq_span12 aq-first cf"><div class="mainwrap" style="background:#0089cf url();background-size: cover;border-top:1px solid #ededed;padding:px 0 px 0;">
+					</div></div><div id="aq-block-8219-7" class="aq-block aq-block-aq_clear_block aq_span12 aq-first cf"><div class="cf" style="height:70px; background:#fff"></div></div><div id="aq-block-8219-8" class="aq-block aq-block-aq_start_content_block aq_span12 aq-first cf"><div class="mainwrap" style="background-color:#0089cf;background-size: cover;border-top:1px solid #ededed;padding:px 0 px 0;">
 <div class="main clearfix">
 <div class="content fullwidth">
 </div><div id="aq-block-8219-9" class="aq-block aq-block-aq_title_border_block aq_span12 aq-first cf"><div class="border-block" id="concepto">
-				<div class="title-block-wrap"><h2 style="color:#fff" class="titleborderh2">¿POR QUÉ TALLER DE DISEÑO?</h2><div class="titleborderOut"><div class="titleborder"></div></div><div class="titletext"><p><span>¿QUÉ NOS DIFERENCIA?</span>NUESTRO TRABAJO SE BASA EN EL CONCEPTO DE LAS 3 “C”</p>
+				<div class="title-block-wrap"><h2 style="color:#fff" class="titleborderh2">ï¿½POR QUï¿½ TALLER DE DISEï¿½O?</h2><div class="titleborderOut"><div class="titleborder"></div></div><div class="titletext"><p><span>ï¿½QUï¿½ NOS DIFERENCIA?</span>NUESTRO TRABAJO SE BASA EN EL CONCEPTO DE LAS 3 ï¿½Cï¿½</p>
  </div></div><div id="aq-block-8219-10" class="aq-block aq-block-aq_featured_block aq_span4 aq-first cf">			<div class="featured-block" style="background:#0089cf; ">
 			
 				<div class="featured-block-title" > <h5 class="feature-title " >CALIDAD</h5> </div>
@@ -461,31 +461,31 @@ PARA OBTENER RESULTADOS
 			</div><div id="aq-block-8219-13" class="aq-block aq-block-aq_clear_block aq_span12 aq-first cf"></div><div id="aq-block-8219-14" class="aq-block aq-block-aq_richtext_block aq_span12 aq-first cf"><p>A trav&eacute;s de la fidelidad proyecto-constructiva hemos conseguido materializar dise&ntilde;os audaces que nos posiciona como una empresa de <strong>referencia creativa</strong> en el mercado de la arquitectura publicitaria. Logramos llevar adelante este concepto en los m&aacute;s de 30.000 m2 de stands constru&iacute;dos.</p>
 <p>Sabemos que las oportunidades no son infinitas y deben aprovecharse al m&aacute;ximo, por eso cada evento y cada cliente es &uacute;nico, logrando nuestro &eacute;xito como consecuencia del &eacute;xito de cada uno de ellos.</p>
 </div><div id="aq-block-8219-15" class="aq-block aq-block-aq_title_border_block_end aq_span12 aq-first cf"></div></div></div><div id="aq-block-8219-16" class="aq-block aq-block-aq_clear_block aq_span12 aq-first cf"><div class="cf" style="height:100px; background:#0089cf"></div></div><div id="aq-block-8219-17" class="aq-block aq-block-aq_end_content_block aq_span12 aq-first cf">		</div></div>
-					</div></div><div id="aq-block-8219-18" class="aq-block aq-block-aq_start_content_block aq_span12 aq-first cf"><div class="mainwrap" style="background:#fff url();background-size: cover;border-top:1px solid #ededed;padding:0px 0 0px 0;">
+					</div></div><div id="aq-block-8219-18" class="aq-block aq-block-aq_start_content_block aq_span12 aq-first cf"><div class="mainwrap" style="background-color:#fff;background-size: cover;border-top:1px solid #ededed;padding:0px 0 0px 0;">
 <div class="main clearfix">
 <div class="content fullwidth">
 </div><div id="aq-block-8219-19" class="aq-block aq-block-aq_title_border_block aq_span12 aq-first cf"><div class="border-block" id="metodologia">
-				<div class="title-block-wrap"><h2 style="color:#0071bb" class="titleborderh2">METODOLOGÍA</h2><div class="titleborderOut"><div class="titleborder"></div></div><div class="titletext"> </div></div><div id="aq-block-8219-20" class="aq-block aq-block-aq_column_block aq_span4 aq-first cf"><div id="aq-block-8219-21" class="aq-block aq-block-aq_features_block aq_span4 aq-first cf"><div class = "featuredIcon"><i class="icon-chat circle icon-3x"></i></div> &nbsp;<h3 class="feature-title">1. CONTACTO</h3><p>Desde el primer contacto brindamos una atención personalizada para involucrarnos y poder adoptar como nuestro el objetivo del cliente. Esto facilita la captación de las necesidades de exhibición y valores a transmitir de la empresa.</p>
-</div></div><div id="aq-block-8219-22" class="aq-block aq-block-aq_column_block aq_span4  cf"><div id="aq-block-8219-23" class="aq-block aq-block-aq_features_block aq_span4 aq-first cf"><div class = "featuredIcon"><i class="icon-design circle icon-3x"></i></div> &nbsp;<h3 class="feature-title">2. DISEÑO</h3><p>Con todo el material captado y teniendo en cuenta la viabilidad y los costos del proyecto, generamos los partidos de diseño que darán lugar a diferentes propuestas. Las mismas se someten siempre a un  desarrollo formal-funcional y de imagen, naciendo los modelos 3d de calidad foto-realística.</p>
-</div></div><div id="aq-block-8219-24" class="aq-block aq-block-aq_column_block aq_span4  cf"><div id="aq-block-8219-25" class="aq-block aq-block-aq_features_block aq_span4 aq-first cf"><div class = "featuredIcon"><i class="icon-papers circle icon-3x"></i></div> &nbsp;<h3 class="feature-title">3. PROYECTO</h3><p>Enviamos la propuesta mediante imágenes de fotorrealismo, junto con la cotización detallada (tanto en sus partes como servicios a brindar), haciendo de nuestra propuesta la más ajustada a la necesidad del cliente, evitando de esta manera cualquier sorpresa futura.</p>
-</div></div><div id="aq-block-8219-26" class="aq-block aq-block-aq_clear_block aq_span12 aq-first cf"></div><div id="aq-block-8219-27" class="aq-block aq-block-aq_column_block aq_span4 aq-first cf"><div id="aq-block-8219-28" class="aq-block aq-block-aq_features_block aq_span4 aq-first cf"><div class = "featuredIcon"><i class="icon-adjust circle icon-3x"></i></div> &nbsp;<h3 class="feature-title">4. AJUSTES</h3><p>Se estudian detalles referentes a la aplicación de marca, grafica general e iluminación. Se establecen tiempos de producción y entrega, logrando así una satisfacción total del cliente.</p>
-</div></div><div id="aq-block-8219-29" class="aq-block aq-block-aq_column_block aq_span4  cf"><div id="aq-block-8219-30" class="aq-block aq-block-aq_features_block aq_span4 aq-first cf"><div class = "featuredIcon"><i class="icon-tools circle icon-3x"></i></div> &nbsp;<h3 class="feature-title">5. FABRICACIÓN</h3><p>Una vez definido los últimos detalles del proyecto se genera la documentación para que nuestro equipo de taller realice la fabricación en estrecha interrelación con el sector de diseño, garantizando la fidelidad entre proyecto y producto.</p>
-</div></div><div id="aq-block-8219-31" class="aq-block aq-block-aq_column_block aq_span4  cf"><div id="aq-block-8219-32" class="aq-block aq-block-aq_features_block aq_span4 aq-first cf"><div class = "featuredIcon"><i class="icon-circle circle icon-3x"></i></div> &nbsp;<h3 class="feature-title">6. ENTREGA</h3><p>Ajustadas a la necesidades de nuestros clientes, en tiempo y forma. Nuestras entregas contemplan el embalado del material y logística de transporte, para entregas de producto con o sin instalación.</p>
+				<div class="title-block-wrap"><h2 style="color:#0071bb" class="titleborderh2">METODOLOGï¿½A</h2><div class="titleborderOut"><div class="titleborder"></div></div><div class="titletext"> </div></div><div id="aq-block-8219-20" class="aq-block aq-block-aq_column_block aq_span4 aq-first cf"><div id="aq-block-8219-21" class="aq-block aq-block-aq_features_block aq_span4 aq-first cf"><div class = "featuredIcon"><i class="icon-chat circle icon-3x"></i></div> &nbsp;<h3 class="feature-title">1. CONTACTO</h3><p>Desde el primer contacto brindamos una atenciï¿½n personalizada para involucrarnos y poder adoptar como nuestro el objetivo del cliente. Esto facilita la captaciï¿½n de las necesidades de exhibiciï¿½n y valores a transmitir de la empresa.</p>
+</div></div><div id="aq-block-8219-22" class="aq-block aq-block-aq_column_block aq_span4  cf"><div id="aq-block-8219-23" class="aq-block aq-block-aq_features_block aq_span4 aq-first cf"><div class = "featuredIcon"><i class="icon-design circle icon-3x"></i></div> &nbsp;<h3 class="feature-title">2. DISEï¿½O</h3><p>Con todo el material captado y teniendo en cuenta la viabilidad y los costos del proyecto, generamos los partidos de diseï¿½o que darï¿½n lugar a diferentes propuestas. Las mismas se someten siempre a un  desarrollo formal-funcional y de imagen, naciendo los modelos 3d de calidad foto-realï¿½stica.</p>
+</div></div><div id="aq-block-8219-24" class="aq-block aq-block-aq_column_block aq_span4  cf"><div id="aq-block-8219-25" class="aq-block aq-block-aq_features_block aq_span4 aq-first cf"><div class = "featuredIcon"><i class="icon-papers circle icon-3x"></i></div> &nbsp;<h3 class="feature-title">3. PROYECTO</h3><p>Enviamos la propuesta mediante imï¿½genes de fotorrealismo, junto con la cotizaciï¿½n detallada (tanto en sus partes como servicios a brindar), haciendo de nuestra propuesta la mï¿½s ajustada a la necesidad del cliente, evitando de esta manera cualquier sorpresa futura.</p>
+</div></div><div id="aq-block-8219-26" class="aq-block aq-block-aq_clear_block aq_span12 aq-first cf"></div><div id="aq-block-8219-27" class="aq-block aq-block-aq_column_block aq_span4 aq-first cf"><div id="aq-block-8219-28" class="aq-block aq-block-aq_features_block aq_span4 aq-first cf"><div class = "featuredIcon"><i class="icon-adjust circle icon-3x"></i></div> &nbsp;<h3 class="feature-title">4. AJUSTES</h3><p>Se estudian detalles referentes a la aplicaciï¿½n de marca, grafica general e iluminaciï¿½n. Se establecen tiempos de producciï¿½n y entrega, logrando asï¿½ una satisfacciï¿½n total del cliente.</p>
+</div></div><div id="aq-block-8219-29" class="aq-block aq-block-aq_column_block aq_span4  cf"><div id="aq-block-8219-30" class="aq-block aq-block-aq_features_block aq_span4 aq-first cf"><div class = "featuredIcon"><i class="icon-tools circle icon-3x"></i></div> &nbsp;<h3 class="feature-title">5. FABRICACIï¿½N</h3><p>Una vez definido los ï¿½ltimos detalles del proyecto se genera la documentaciï¿½n para que nuestro equipo de taller realice la fabricaciï¿½n en estrecha interrelaciï¿½n con el sector de diseï¿½o, garantizando la fidelidad entre proyecto y producto.</p>
+</div></div><div id="aq-block-8219-31" class="aq-block aq-block-aq_column_block aq_span4  cf"><div id="aq-block-8219-32" class="aq-block aq-block-aq_features_block aq_span4 aq-first cf"><div class = "featuredIcon"><i class="icon-circle circle icon-3x"></i></div> &nbsp;<h3 class="feature-title">6. ENTREGA</h3><p>Ajustadas a la necesidades de nuestros clientes, en tiempo y forma. Nuestras entregas contemplan el embalado del material y logï¿½stica de transporte, para entregas de producto con o sin instalaciï¿½n.</p>
 </div></div><div id="aq-block-8219-33" class="aq-block aq-block-aq_clear_block aq_span12 aq-first cf"></div><div id="aq-block-8219-34" class="aq-block aq-block-aq_title_border_block_end aq_span12 aq-first cf"></div></div></div><div id="aq-block-8219-35" class="aq-block aq-block-aq_end_content_block aq_span12 aq-first cf">		</div></div>
-					</div></div><div id="aq-block-8219-36" class="aq-block aq-block-aq_start_content_block aq_span12 aq-first cf"><div class="mainwrap" style="background:#0089cf url();background-size: cover;border-top:1px solid #ededed;padding:0px 0 0px 0;">
+					</div></div><div id="aq-block-8219-36" class="aq-block aq-block-aq_start_content_block aq_span12 aq-first cf"><div class="mainwrap" style="background-color:#0089cf;background-size: cover;border-top:1px solid #ededed;padding:0px 0 0px 0;">
 <div class="main clearfix">
 <div class="content fullwidth">
 </div><div id="aq-block-8219-37" class="aq-block aq-block-aq_title_border_block aq_span12 aq-first cf"><div class="border-block" id="servicios">
-				<div class="title-block-wrap"><h2 style="color:#fff" class="titleborderh2">SERVICIOS</h2><div class="titleborderOut"><div class="titleborder"></div></div><div class="titletext"> </div></div><div id="aq-block-8219-38" class="aq-block aq-block-aq_column_block aq_span3 aq-first cf"><div id="aq-block-8219-39" class="aq-block aq-block-aq_features_block aq_span4 aq-first cf"><div class = "featuredIcon"><i class="icon-design white icon-3x"></i></div> &nbsp;<h3 class="feature-title">DISEÑO</h3><p>Creamos formas y espacios, ligados al concepto de un producto y de una marca, otorgando pertenencia, singularidad y pregnancia. Lo logramos en stands para exposiciones, exhibidores, pop-puntos de venta, showrooms, locales comerciales, y muebles para oficina, vivienda y retail.</p>
-</div></div><div id="aq-block-8219-40" class="aq-block aq-block-aq_column_block aq_span3  cf"><div id="aq-block-8219-41" class="aq-block aq-block-aq_features_block aq_span4 aq-first cf"><div class = "featuredIcon"><i class="icon-construction white icon-3x"></i></div> &nbsp;<h3 class="feature-title">CONSTRUCCIÓN</h3><p>Elaboración de documentación para la generación de piezas a medida en nuestro propio taller, a través de procesos y tecnología que contemplan tanto la fabricación de piezas únicas como en serie. Teniendo como resultado terminación de productos de rasgos distintivos.</p>
-</div></div><div id="aq-block-8219-42" class="aq-block aq-block-aq_column_block aq_span3  cf"><div id="aq-block-8219-43" class="aq-block aq-block-aq_features_block aq_span4 aq-first cf"><div class = "featuredIcon"><i class="icon-setup white icon-3x"></i></div> &nbsp;<h3 class="feature-title">INSTALACIÓN</h3><p>Nuestra estructura y personal calificado nos permite trabajar fuera de nuestra fábrica, generando estrategias y planificación que eliminan los imprevistos y reducen los tiempos de ejecución.</p>
-</div></div><div id="aq-block-8219-44" class="aq-block aq-block-aq_column_block aq_span3  cf"><div id="aq-block-8219-45" class="aq-block aq-block-aq_features_block aq_span4 aq-first cf"><div class = "featuredIcon"><i class="icon-routed white icon-3x"></i></div> &nbsp;<h3 class="feature-title">RUTEADO</h3><p>Cortamos, tallamos y perforamos sobre maderas, aglomerados, terciados, multilaminados, OSB, melamina, acrílicos y plásticos, en 2D y 3D, sobre piezas únicas o en serie, en base a archivos o planos recibidos.</p>
+				<div class="title-block-wrap"><h2 style="color:#fff" class="titleborderh2">SERVICIOS</h2><div class="titleborderOut"><div class="titleborder"></div></div><div class="titletext"> </div></div><div id="aq-block-8219-38" class="aq-block aq-block-aq_column_block aq_span3 aq-first cf"><div id="aq-block-8219-39" class="aq-block aq-block-aq_features_block aq_span4 aq-first cf"><div class = "featuredIcon"><i class="icon-design white icon-3x"></i></div> &nbsp;<h3 class="feature-title">DISEï¿½O</h3><p>Creamos formas y espacios, ligados al concepto de un producto y de una marca, otorgando pertenencia, singularidad y pregnancia. Lo logramos en stands para exposiciones, exhibidores, pop-puntos de venta, showrooms, locales comerciales, y muebles para oficina, vivienda y retail.</p>
+</div></div><div id="aq-block-8219-40" class="aq-block aq-block-aq_column_block aq_span3  cf"><div id="aq-block-8219-41" class="aq-block aq-block-aq_features_block aq_span4 aq-first cf"><div class = "featuredIcon"><i class="icon-construction white icon-3x"></i></div> &nbsp;<h3 class="feature-title">CONSTRUCCIï¿½N</h3><p>Elaboraciï¿½n de documentaciï¿½n para la generaciï¿½n de piezas a medida en nuestro propio taller, a travï¿½s de procesos y tecnologï¿½a que contemplan tanto la fabricaciï¿½n de piezas ï¿½nicas como en serie. Teniendo como resultado terminaciï¿½n de productos de rasgos distintivos.</p>
+</div></div><div id="aq-block-8219-42" class="aq-block aq-block-aq_column_block aq_span3  cf"><div id="aq-block-8219-43" class="aq-block aq-block-aq_features_block aq_span4 aq-first cf"><div class = "featuredIcon"><i class="icon-setup white icon-3x"></i></div> &nbsp;<h3 class="feature-title">INSTALACIï¿½N</h3><p>Nuestra estructura y personal calificado nos permite trabajar fuera de nuestra fï¿½brica, generando estrategias y planificaciï¿½n que eliminan los imprevistos y reducen los tiempos de ejecuciï¿½n.</p>
+</div></div><div id="aq-block-8219-44" class="aq-block aq-block-aq_column_block aq_span3  cf"><div id="aq-block-8219-45" class="aq-block aq-block-aq_features_block aq_span4 aq-first cf"><div class = "featuredIcon"><i class="icon-routed white icon-3x"></i></div> &nbsp;<h3 class="feature-title">RUTEADO</h3><p>Cortamos, tallamos y perforamos sobre maderas, aglomerados, terciados, multilaminados, OSB, melamina, acrï¿½licos y plï¿½sticos, en 2D y 3D, sobre piezas ï¿½nicas o en serie, en base a archivos o planos recibidos.</p>
 </div></div><div id="aq-block-8219-46" class="aq-block aq-block-aq_clear_block aq_span12 aq-first cf"></div><div id="aq-block-8219-47" class="aq-block aq-block-aq_title_border_block_end aq_span12 aq-first cf"></div></div></div><div id="aq-block-8219-48" class="aq-block aq-block-aq_end_content_block aq_span12 aq-first cf">		</div></div>
-					</div></div><div id="aq-block-8219-49" class="aq-block aq-block-aq_start_content_block aq_span12 aq-first cf"><div class="mainwrap" style="background:#ffffff url();background-size: cover;border-top:1px solid #ededed;padding:0px 0 10px 0;">
+					</div></div><div id="aq-block-8219-49" class="aq-block aq-block-aq_start_content_block aq_span12 aq-first cf"><div class="mainwrap" style="background-color:#ffffff;background-size: cover;border-top:1px solid #ededed;padding:0px 0 10px 0;">
 <div class="main clearfix">
 <div class="content fullwidth">
 </div><div id="aq-block-8219-50" class="aq-block aq-block-aq_title_border_block aq_span12 aq-first cf"><div class="border-block" id="portfolio">
-				<div class="title-block-wrap"><h2 style="color:#0071bb" class="titleborderh2">PORTFOLIO</h2><div class="titleborderOut"><div class="titleborder"></div></div><div class="titletext"><p>HAGA CLICK SOBRE UNA CATEGORÍA O SOBRE UN TRABAJO PARA VER EL DETALLE DEL MISMO</p>
+				<div class="title-block-wrap"><h2 style="color:#0071bb" class="titleborderh2">PORTFOLIO</h2><div class="titleborderOut"><div class="titleborder"></div></div><div class="titletext"><p>HAGA CLICK SOBRE UNA CATEGORï¿½A O SOBRE UN TRABAJO PARA VER EL DETALLE DEL MISMO</p>
  </div></div><div id="aq-block-8219-51" class="aq-block aq-block-aq_portfolio_block aq_span12 aq-first cf">			
 	<div id = "showpost-portfolio">
 		<div class="showpostload"><div class="loading"></div></div>
@@ -496,7 +496,7 @@ PARA OBTENER RESULTADOS
 				<div id="portfolio_block">
 					<div id="remove" class="portfolioremove" data-option-key="filter">
 						<h2>
-						<a class="catlink" href="#filter" data-option-value=".ultimos">Ver Últimos <span> </span></a>
+						<a class="catlink" href="#filter" data-option-value=".ultimos">Ver ï¿½ltimos <span> </span></a>
 						<a class="catlink" href="#filter" data-option-value="*">Ver Todos <span> </span></a>
 						<a class="catlink" href="#filter" data-option-value=".hasta15mts2" >hasta 15 mts2 <span class="aftersortingword"> </span></a>
 						<a class="catlink" href="#filter" data-option-value=".hasta40mts2" >hasta 40 mts2 <span class="aftersortingword"> </span></a>
@@ -622,12 +622,12 @@ PARA OBTENER RESULTADOS
 							<div class="testimonial-description">
 								<div class="testimonial-texts">
 									<p><i class="icon-quote-left"></i>UNA TRAYECTORIA DE CALIDAD, HONESTIDAD Y 
-SERIEDAD NOS PERMITE HACER REALIDAD DISEÑOS 
+SERIEDAD NOS PERMITE HACER REALIDAD DISEï¿½OS 
 DE GRAN ORIGINALIDAD Y ALTO IMPACTO VISUAL<i class="icon-quote-right"></i></p>
 								</div>
 								
 								<div class="testimonial-author">
-									<span class="author">Taller de Diseño</span>								</div>
+									<span class="author">Taller de Diseï¿½o</span>								</div>
 							</div>	
 						<div class="testimonial-after"></div>
 						</li>
@@ -637,13 +637,13 @@ DE GRAN ORIGINALIDAD Y ALTO IMPACTO VISUAL<i class="icon-quote-right"></i></p>
 						<div class="testimonial-before"></div>
 							<div class="testimonial-description">
 								<div class="testimonial-texts">
-									<p><i class="icon-quote-left"></i>CADA EVENTO Y CADA CLIENTE ES ÚNICO. 
-LOGRAMOS NUESTRO ÉXITO COMO CONSECUENCIA
-DEL ÉXITO DE CADA UNO DE ELLOS<i class="icon-quote-right"></i></p>
+									<p><i class="icon-quote-left"></i>CADA EVENTO Y CADA CLIENTE ES ï¿½NICO. 
+LOGRAMOS NUESTRO ï¿½XITO COMO CONSECUENCIA
+DEL ï¿½XITO DE CADA UNO DE ELLOS<i class="icon-quote-right"></i></p>
 								</div>
 								
 								<div class="testimonial-author">
-									<span class="author">Taller de Diseño</span>								</div>
+									<span class="author">Taller de Diseï¿½o</span>								</div>
 							</div>	
 						<div class="testimonial-after"></div>
 						</li>
@@ -655,17 +655,17 @@ DEL ÉXITO DE CADA UNO DE ELLOS<i class="icon-quote-right"></i></p>
 			</div>
 			
 			</div><div id="aq-block-8219-58" class="aq-block aq-block-aq_title_border_block_end aq_span12 aq-first cf"></div></div></div><div id="aq-block-8219-59" class="aq-block aq-block-aq_end_content_block aq_span12 aq-first cf">		</div></div>
-					</div></div><div id="aq-block-8219-60" class="aq-block aq-block-aq_start_content_block aq_span12 aq-first cf"><div class="mainwrap" style="background:#fff url();background-size: cover;border-top:1px solid #ededed;padding:0px 0 0px 0;">
+					</div></div><div id="aq-block-8219-60" class="aq-block aq-block-aq_start_content_block aq_span12 aq-first cf"><div class="mainwrap" style="background-color:#fff;background-size: cover;border-top:1px solid #ededed;padding:0px 0 0px 0;">
 <div class="main clearfix">
 <div class="content fullwidth">
 </div><div id="aq-block-8219-61" class="aq-block aq-block-aq_clear_block aq_span12 aq-first cf"><div class="cf" style="height:20px; background:#fff"></div></div><div id="aq-block-8219-62" class="aq-block aq-block-aq_title_border_block aq_span12 aq-first cf"><div class="border-block" id="news">
-				<div class="title-block-wrap"><h2 style="color:#0080c8" class="titleborderh2">NOVEDADES</h2><div class="titleborderOut"><div class="titleborder"></div></div><div class="titletext"><p>PRÓXIMAMENTE PODRÁ ENCONTRAR LOS PROYECTOS EN LOS QUE ESTAMOS TRABAJANDO</p>
+				<div class="title-block-wrap"><h2 style="color:#0080c8" class="titleborderh2">NOVEDADES</h2><div class="titleborderOut"><div class="titleborder"></div></div><div class="titletext"><p>PRï¿½XIMAMENTE PODRï¿½ ENCONTRAR LOS PROYECTOS EN LOS QUE ESTAMOS TRABAJANDO</p>
  </div></div><div id="aq-block-8219-63" class="aq-block aq-block-aq_clear_block aq_span12 aq-first cf"><div class="cf" style="height:80px; background:#fff"></div></div><div id="aq-block-8219-64" class="aq-block aq-block-aq_end_content_block aq_span12 aq-first cf">		</div></div>
 					</div></div><div id="aq-block-8219-65" class="aq-block aq-block-aq_title_border_block_end aq_span12 aq-first cf"></div></div></div><div id="aq-block-8219-66" class="aq-block aq-block-aq_start_content_block aq_span12 aq-first cf"><div class="mainwrap" style="background:#f7f7f7 url(uploads/2014/06/contacto.jpg);background-size: cover;border-top:1px solid #ededed;padding:0px 0 0px 0;">
 <div class="main clearfix">
 <div class="content fullwidth">
 </div><div id="aq-block-8219-67" class="aq-block aq-block-aq_title_border_block aq_span12 aq-first cf"><div class="border-block" id="contact">
-				<div class="title-block-wrap"><h2 style="color:#ffffff" class="titleborderh2">CONTACTO</h2><div class="titleborderOut"><div class="titleborder"></div></div><div class="titletext"><div style="color:#fff";>SI DESEA, PUEDE CONTACTARSE CON NOSOTROS COMPLETANDO EL FORMULARIO<br>O ESCRIBIÉNDOS UN MAIL QUE A LA BREVEDAD NOS PONDREMOS EN CONTACTO.<br>MUCHAS GRACIAS.</div>
+				<div class="title-block-wrap"><h2 style="color:#ffffff" class="titleborderh2">CONTACTO</h2><div class="titleborderOut"><div class="titleborder"></div></div><div class="titletext"><div style="color:#fff";>SI DESEA, PUEDE CONTACTARSE CON NOSOTROS COMPLETANDO EL FORMULARIO<br>O ESCRIBIï¿½NDOS UN MAIL QUE A LA BREVEDAD NOS PONDREMOS EN CONTACTO.<br>MUCHAS GRACIAS.</div>
  </div></div><div id="aq-block-8219-68" class="aq-block aq-block-aq_contact_block aq_span7 aq-first cf"><div class="wpcf7" id="wpcf7-f4-p7694-o1"><form action="background.php?sendMail=1" method="post" class="wpcf7-form" novalidate>
 <div style="display: none;">
 <input type="hidden" name="_wpcf7" value="4" />
@@ -678,7 +678,7 @@ DEL ÉXITO DE CADA UNO DE ELLOS<i class="icon-quote-right"></i></p>
     <span class="wpcf7-form-control-wrap your-name"><input type="text" name="your-name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" /></span> </p>
 <p>Mail (requerido)<br />
     <span class="wpcf7-form-control-wrap your-email"><input type="email" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" /></span> </p>
-<p>Teléfono<br />
+<p>Telï¿½fono<br />
     <span class="wpcf7-form-control-wrap your-phone"><input type="text" name="your-phone" value="" size="40" class="wpcf7-form-control wpcf7-text" /></span> </p>
 <p>Su mensaje (requerido)<br />
     <span class="wpcf7-form-control-wrap your-message"><textarea name="your-message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea wpcf7-validates-as-required" aria-required="true"></textarea></span> </p>
@@ -707,8 +707,8 @@ DEL ÉXITO DE CADA UNO DE ELLOS<i class="icon-quote-right"></i></p>
 				<!-- footer widget 2-->
 				<div class="footer_widget2">	
 					<div class="widget widget_nav_menu"><div class="menu-menu-principal-container"><ul id="menu-menu-principal-4" class="menu"><li id="menu-item-7769" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7769"><a href="#about">NOSOTROS</a></li>
-<li id="menu-item-7786" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7786"><a href="#concepto">POR QUÉ TDD</a></li>
-<li id="menu-item-7752" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7752"><a href="#metodologia">METODOLOGÍA</a></li>
+<li id="menu-item-7786" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7786"><a href="#concepto">POR QUï¿½ TDD</a></li>
+<li id="menu-item-7752" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7752"><a href="#metodologia">METODOLOGï¿½A</a></li>
 <li id="menu-item-7787" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7787"><a href="#servicios">SERVICIOS</a></li>
 <li id="menu-item-7788" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7788"><a href="#portfolio">PORTFOLIO</a></li>
 <li id="menu-item-7789" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7789"><a href="#news">NOVEDADES</a></li>
@@ -725,7 +725,7 @@ DEL ÉXITO DE CADA UNO DE ELLOS<i class="icon-quote-right"></i></p>
 			<div id="footerb">
 				<div class="lowerfooter">
 				<div class="copyright">	
-					<strong>TALLER DE DISEÑO</strong> / 2014 / Todos los derechos reservados / <a href="http://diazmonnier.com/" target="_blank"><span>Design by DIAZ MONNIER</span></a>				</div>
+					<strong>TALLER DE DISEï¿½O</strong> / 2014 / Todos los derechos reservados / <a href="http://diazmonnier.com/" target="_blank"><span>Design by DIAZ MONNIER</span></a>				</div>
 				</div>
 			</div>
 		</div>
