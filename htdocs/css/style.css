@@ -1420,8 +1420,21 @@ text-align: center;
 		text-align: left !important;
 	}
 }
-@media screen and (max-width:960px){
-	#metodologia .aq-block.aq-block-aq_column_block.aq_span4:before { display: none; }
+@media screen and (max-width:1025px){
+
+    .featured-block {
+        margin: 0px;
+    }
+
+    .homerecent .recentdescription {
+        margin:-25px 0 0px 0 !important;
+    }
+
+    ul.menu li a {
+        font-size: 12pt;
+    }
+
+    #metodologia .aq-block.aq-block-aq_column_block.aq_span4:before { display: none; }
 	#news div.titletext p span {
 		line-height: 1;
 		font-size: 30px;
